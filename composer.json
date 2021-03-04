@@ -1,0 +1,11 @@
+{
+    "name": "hexlet/code",
+    "description": "Hexlet project brain-games",
+    "authors": [
+        {
+            "name": "e.pazukhina",
+            "email": "enpazukhina@gmail.com"
+        }
+    ],
+    "require": {}
+}
