@@ -1,11 +1,15 @@
 {
     "name": "hexlet/code",
-    "description": "Hexlet project brain-games",
+    "bin": [
+        "bin/brain-games"
+    ],
     "authors": [
         {
             "name": "e.pazukhina",
             "email": "enpazukhina@gmail.com"
         }
     ],
+    "description": "Hexlet project brain-games",
+    "license": "MIT",
     "require": {}
 }
